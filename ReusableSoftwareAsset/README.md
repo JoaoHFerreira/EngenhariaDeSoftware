@@ -26,7 +26,7 @@ Estamos em um paísestrangeiro onde a distancia e o tempo se mede em termos de M
 `uma hora tem 2 mirs`
 * Qual a velocidade da pessoa de A para B?
 `a pessoa viaja a velocidade de 24 lutts por wor`
-*Qual a velocidade da pessoa de B para C?
+* Qual a velocidade da pessoa de B para C?
 `a pessoa viaja a velocidade de 30 lutts por wor`
 * Qual a velocidade da pessoa de C para D?
 `a pessoa viaja a velocidade de 30 lutts por wo`
