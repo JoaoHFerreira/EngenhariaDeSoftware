@@ -1,5 +1,5 @@
 ## Atividade Prática ReusableSoftware Assets
-Estamos em um país estrangeiro onde a distancia e o tempo se medem em termos de Mipps e Wors. Nesse país,uma pessoa viaja da cidade A para cidade B e depois para cidade C para cidade D.Vocêtem que determinar quantos Wors (medida de tempo)utilizará essa pessoa em ir da cidade A à cidade D.
+Estamos em um país estrangeiro onde a distancia e o tempo se medem em termos de Mipps e Wors. Nesse país,uma pessoa viaja da cidade A para cidade B e depois para cidade C para cidade D.Você tem que determinar quantos Wors (medida de tempo)utilizará essa pessoa em ir da cidade A à cidade D.
 
 
 #### Informações adicionais:
